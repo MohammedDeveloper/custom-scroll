@@ -1,5 +1,4 @@
-# ng-progressive
-progressive bar like Youtube, LinkedIn
+# custom scroll using CSS
 
-<ing src="https://github.com/MohammedDeveloper/custom-scroll/blob/master/demo1.PNG" />
-<ing src="https://github.com/MohammedDeveloper/custom-scroll/blob/master/demo2.PNG" />
+<img src="https://github.com/MohammedDeveloper/custom-scroll/blob/master/demo1.PNG" />
+<img src="https://github.com/MohammedDeveloper/custom-scroll/blob/master/demo2.PNG" />
